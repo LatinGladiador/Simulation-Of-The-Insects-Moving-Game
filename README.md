@@ -1,7 +1,3 @@
-Aquí tienes el README actualizado para el proyecto "Simulation Of The Insects Moving Game", siguiendo el diseño que me proporcionaste:
-
----
-
 # Simulation Of The Insects Moving Game
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
